@@ -1,8 +1,8 @@
 import 'package:flutter_test/flutter_test.dart';
+import 'package:umeng_analytics_flutter/umeng_analytics_plugin.dart';
+import 'package:umeng_analytics_flutter/umeng_analytics_plugin_method_channel.dart';
+import 'package:umeng_analytics_flutter/umeng_analytics_plugin_platform_interface.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
-import 'package:umeng_analytics_plugin/umeng_analytics_plugin.dart';
-import 'package:umeng_analytics_plugin/umeng_analytics_plugin_method_channel.dart';
-import 'package:umeng_analytics_plugin/umeng_analytics_plugin_platform_interface.dart';
 
 class MockUmengAnalyticsPluginPlatform
     with MockPlatformInterfaceMixin

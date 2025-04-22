@@ -1,7 +1,9 @@
-name: umeng_analytics_plugin
-description: "A Flutter plugin for Umeng Analytics."
+name: umeng_analytics_flutter
+description: "A Flutter plugin for Umeng Analytics, supporting both Android and iOS platforms."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Invincible1996/umeng_analytics_plugin
+repository: https://github.com/Invincible1996/umeng_analytics_plugin
+issue_tracker: https://github.com/Invincible1996/umeng_analytics_plugin/issues
 
 environment:
   sdk: ^3.7.2

@@ -3,13 +3,13 @@
 # Run `pod lib lint umeng_analytics_plugin.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'umeng_analytics_plugin'
+  s.name             = 'umeng_analytics_flutter'
   s.version          = '0.0.1'
-  s.summary          = 'A new Flutter plugin project.'
+  s.summary          = 'A Flutter plugin for Umeng Analytics.'
   s.description      = <<-DESC
-A new Flutter plugin project.
+A Flutter plugin for Umeng Analytics, supporting both Android and iOS platforms.
                        DESC
-  s.homepage         = 'http://example.com'
+  s.homepage         = 'https://github.com/Invincible1996/umeng_analytics_plugin'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'email@example.com' }
   s.source           = { :path => '.' }
