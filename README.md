@@ -1,5 +1,7 @@
 # Umeng Analytics Plugin
 
+[![pub package](https://img.shields.io/pub/v/umeng_analytics_flutter.svg)](https://pub.dev/packages/umeng_analytics_flutter)
+
 友盟统计 Flutter 插件，支持 Android 和 iOS 平台。
 
 ## 功能特点
