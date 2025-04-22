@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.umeng_analytics_plugin">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 根据友盟文档可能需要的其他权限，如ACCESS_WIFI_STATE -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+</manifest>
